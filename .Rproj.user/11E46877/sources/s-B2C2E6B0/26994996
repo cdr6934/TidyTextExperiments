@@ -1,0 +1,29 @@
+{
+    "collab_server" : "",
+    "contents" : "",
+    "created" : 1488430190561.000,
+    "dirty" : false,
+    "encoding" : "",
+    "folds" : "",
+    "hash" : "0",
+    "id" : "26994996",
+    "lastKnownWriteTime" : 1,
+    "last_content_update" : 1488430190561,
+    "path" : null,
+    "project_path" : null,
+    "properties" : {
+        "cacheKey" : "A11E2AC",
+        "caption" : "charles",
+        "contentUrl" : "grid_resource/gridviewer.html?env=&obj=charles&cache_key=A11E2AC",
+        "displayedObservations" : "74",
+        "environment" : "",
+        "object" : "charles",
+        "preview" : "0",
+        "totalObservations" : "74",
+        "variables" : "8"
+    },
+    "relative_order" : 2,
+    "source_on_save" : false,
+    "source_window" : "",
+    "type" : "r_dataframe"
+}
